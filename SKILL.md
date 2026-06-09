@@ -3,7 +3,7 @@ name: "ai-music-prompts"
 description: "AI音乐提示词生成器：通过对话收集创作需求，智能匹配18大风格方案，生成专业级妙响/抖音平台提示词，支持浏览器自动化操作完成歌曲生成。Invoke when user wants to create AI music, generate music prompts, write song descriptions, analyze lyrics, auto-operate music platforms, or needs help with AI music platform configurations."
 ---
 
-# AI音乐提示词生成器 v4.0（整合版）
+# AI音乐提示词生成器 v4.2（整合版）
 
 ## 概述
 
@@ -559,4 +559,4 @@ Skill输出：
 
 ---
 
-*本Skill整合了两个音乐生成器的核心优势，专为妙响（抖音AI音乐创作实验室）优化。v4.0更新：整合对话收集、18大风格方案、多模型支持、浏览器自动化。*
+*本Skill整合了两个音乐生成器的核心优势，专为妙响（抖音AI音乐创作实验室）优化。v4.2更新：整合对话收集、18大风格方案、多模型支持、浏览器自动化。*
